@@ -25,3 +25,4 @@ stages:
   steps:
   - applyYamlConfig:
       path: ./deploy/deployment.yaml
+notification: {}
